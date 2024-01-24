@@ -1,9 +1,12 @@
+# @Mohana to build the implementation for this function
 def count_lines(content):
     print("No of lines: #")
 
+# @Nitin to build the implementation for this function
 def count_words(content):
     print("No of words: #")
     
+# @Raghu to build the implementation for this function
 def print_alternate_lines(content):
     print("Alternate lines go here")
 
