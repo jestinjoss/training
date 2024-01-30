@@ -4,7 +4,10 @@ def count_lines(content):
 
 # @Nitin to build the implementation for this function
 def count_words(content):
-    print("No of words: #")
+    #for line in content:
+    words = content.split()
+    count = len(words)
+    print("Number of words in a Text File", count)
     
 # @Raghu to build the implementation for this function
 def print_alternate_lines(content):
