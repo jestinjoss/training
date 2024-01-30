@@ -1,4 +1,4 @@
-file = open("C:/Users/user/Music/new.txt", "r")
+file = open("./data/test.txt", "r")
 count = 0
 for line in file:
 	words = line.split(" ")
